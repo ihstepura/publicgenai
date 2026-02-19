@@ -1,3 +1,4 @@
+#SEARCH TASK 10 TO FIND THE CODE 
 # -*- coding: utf-8 -*-
 """TASK 10 HERE Copy of MLM2_OCR_with_Gemini.ipynb
 
